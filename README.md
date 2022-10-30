@@ -1,6 +1,6 @@
 # Alphabet Soup’s business team,
 
-### create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
+### Create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
 
 * Deliverable 1: Preprocessing Data for a Neural Network Model
